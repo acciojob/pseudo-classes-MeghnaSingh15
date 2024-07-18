@@ -2,14 +2,14 @@
 :root{
 	background-color:rgb(135,206,235);
 }
-p:first-child{
+div p:first-child{
 	color:white;
 	background-color:black;
 }
 div:nth-child(2){
 	color:black;
 }
-p:last-child{
+div p:last-child{
 	color:red;
 }
 li:nth-of-type(2n){
